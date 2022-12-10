@@ -19,7 +19,7 @@ body {
 header {
 	width: 100%;
 	height: 8%;
-	background-color: #5D5E5D;
+	background-color: #222222;
 	border-bottom: 1px solid #353635;
 }
 .logo {
@@ -169,7 +169,7 @@ footer {
 }
 .intro {
 	display: inline-block;
-	background-color: #6DC7D0;
+	background-color: #7E7E7E;
 }
 .profile {
 	width: 50%;
