@@ -119,7 +119,7 @@ ul li:hover a {
 	width: 50%;
 	text-align: center;
 	padding-top: 30px;
-	float: center;
+	float: left;
 	font-size: 19px;
 }
 .intro .column h3 {
